@@ -25,3 +25,41 @@ Tüm komutlar kategorilere ayrılmış, anlık arama ve filtreleme ile kolayca b
 /
 ├── index.html          # Tüm HTML, CSS ve JavaScript tek dosyada
 └── README.md           # Bu dosya
+
+🔧 Kullanım
+Dosyayı indir veya kopyala: index.html
+
+Tarayıcında aç (çift tıkla veya open index.html)
+
+Komutları ara, filtrele, kopyala.
+
+Klavye kısayolları
+/ – arama kutusuna odaklan
+
+ESC – arama kutusunu temizle ve filtreyi sıfırla
+
+🧩 Komut Kategorileri
+Kategori	Açıklama
+📦 Paket Yönetimi	Kurulum, kaldırma, güncelleme, sorgulama
+📂 Depo Yönetimi	Depo ekleme, kaldırma, listeleme
+🛠 Geliştirme	Derleme, imzalama, bağımlılık kontrolü
+⚙️ Sistem	Yardım, sürüm, geçmiş, önbellek
+🌐 Ağ & Paylaşım	Paylaşım, indirme, fetch
+🧰 Yardımcı Araçlar	Pisitools ve alt araçları
+🌐 Kaynaklar
+Pisi Linux Resmi Web Sitesi https://pisilinux.org/
+
+Pisi Linux Wiki https://wiki.pisilinux.org/
+
+Pisi Linux GitHub https://github.com/pisilinux
+
+Pisi Linux Dokümantasyon https://pisilinux.org/docs
+
+Pisi Linux Forum https://forum.pisilinux.org/
+
+📜 Lisans
+
+Pisi Linux ve logosu ilgili hak sahiplerine aittir.
+
+⭐ Beğendiyseniz yıldız vermeyi unutmayın!
+
