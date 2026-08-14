@@ -1,7 +1,5 @@
-# pisikomutları 2026
-Pisi Linux Komutları
-
 # 🐧 Pisi Linux Komut Listesi (2026)
+Pisi Linux Komutları
 
 Modern, koyu temalı, erişilebilir ve tamamen istemci-tarafında çalışan **Pisi Linux** komut referans sayfası.  
 Tüm komutlar kategorilere ayrılmış, anlık arama ve filtreleme ile kolayca bulunabilir. Her komut tek tıklamayla panoya kopyalanabilir.
