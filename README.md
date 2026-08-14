@@ -6,7 +6,9 @@ Pisi Linux Komutları
 Modern, koyu temalı, erişilebilir ve tamamen istemci-tarafında çalışan **Pisi Linux** komut referans sayfası.  
 Tüm komutlar kategorilere ayrılmış, anlık arama ve filtreleme ile kolayca bulunabilir. Her komut tek tıklamayla panoya kopyalanabilir.
 
-![Önizleme](https://via.placeholder.com/800x400?text=Pisi+Linux+Komut+Listesi)
+# Önizleme
+
+![Önizleme](https://raw.githubusercontent.com/episutv/pisikomutlari2026/refs/heads/main/pisilkomutlari2026.jpg)
 
 ## 🚀 Özellikler
 
