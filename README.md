@@ -1,0 +1,2 @@
+# pisikomutlar-
+Pisi Linux Komutları
